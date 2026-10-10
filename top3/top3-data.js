@@ -39,4 +39,8 @@ const seeds = [
   ['🍕','TOP-3 de formas de comer papa','narian'],
   ['🍕','TOP-3 de formas de comer queso','asdf'],
   ['🍕','TOP-3 de ingredientes de picada','sebas'],
+  ['😂','TOP-3 superpoderes','top3master'],
+  ['😂','TOP-3 herramientas','top3master'],
+  ['🎬','TOP-3 comediantes de stand-up','top3master'],
+  ['⚽','TOP-3 deportistas de tu país','top3master'],
 ];
